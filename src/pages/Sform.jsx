@@ -23,6 +23,15 @@ function Sform(){
                     required 
                 />
 
+                <label htmlFor="mobile">Mobile:</label>
+                <input 
+                    type="mobile" 
+                    id="mobile" 
+                    name="mobile" 
+                    required 
+                />
+
+
                 <label htmlFor="password">Password:</label>
                 <input 
                     type="password" 
